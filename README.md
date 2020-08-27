@@ -14,11 +14,11 @@ _______________________________
 
 * apt install git python2 -y
 
-* pip2 install -r requerment.txt
-
 * git clone https://github.com/ARSecurityTeam/FacebookHack
 
 * cd FacebookHack
+
+*  pip2 install -r requerment.txt
 
 * chmod +x Fb-Brute.py
 
